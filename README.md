@@ -234,22 +234,7 @@ AI-Job-Market-Analysis/
 └── README.md
 ```
 
----
 
-# 📈 Dashboard Preview
-
-Add your Power BI dashboard screenshot here:
-
-```markdown
-![AI Job Market Dashboard](Visualizations/dashboard_screenshots/dashboard.png)
-```
-
----
-
-# 👩‍💻 Project Team
-
-**Project:** AI Job Market Analysis
-**Supervised by:** Eng. Dina Mohsen
 
 ---
 
